@@ -1,0 +1,35 @@
+{
+  "article": [
+    {
+      "id": 1,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae totam soluta, voluptatibus ipsa velit officiis iste dolores consectetur ad fugiat. Delectus possimus modi fugit at ipsam optio quam ad obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae totam soluta, voluptatibus ipsa velit officiis iste dolores consectetur ad fugiat. Delectus possimus modi fugit at ipsam optio quam ad obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae totam soluta, voluptatibus ipsa velit officiis iste dolores consectetur ad fugiat. Delectus possimus modi fugit at ipsam optio quam ad obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae totam soluta, voluptatibus ipsa velit officiis iste dolores consectetur ad fugiat. Delectus possimus modi fugit at ipsam optio quam ad obcaecati."
+    }
+  ],
+  "comments": [
+    {
+      "text": "привет",
+      "name": "Alex",
+      "date": "7.10.2020",
+      "id": 1
+    },
+    {
+      "text": "Привет Привет",
+      "name": "Alex",
+      "date": "7.10.2020",
+      "id": 2
+    },
+    {
+      "text": "hi",
+      "name": "Alex",
+      "date": "7.10.2020",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "Alex",
+      "password": "1",
+      "id": 1
+    }
+  ]
+}
